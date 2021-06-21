@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://f0sternest.github.io/errorpage.com/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/F0sternest/errorpage.com}">
+    <a href="https://{https://github.com/f0sternest/errorpage.com}">
       Solution
     </a>
     <span> | </span>
@@ -34,10 +34,10 @@
 
 ## Overview
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- you can see my demo at: https://f0sternest.github.io/errorpage.com/
+- My experience making this up was great, i just get exited when i have something to code, doesn't matter how simple it may be.
+- I have learned that i actually know how to use media queries (this was my firts time using it in a project). But i would love some feedback on best practices: making my code more easy to read and the best methods to achive the same result that i got.
+- i've only been with web development for less than a year, so im pretty happy with what can i do.
 
 ## Features
 
