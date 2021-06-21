@@ -112,7 +112,7 @@ footer {
   }
 
   .title {
-    width: 100%;
+    width: 90%;
     top: 400px;
     left: 5px;
     font-size: 45px;
@@ -120,7 +120,7 @@ footer {
   }
 
   .description {
-    width: 100%;
+    width: 90%;
     height: 108px;
     top: 570px;
     left: 5px;
